@@ -1,7 +1,7 @@
 hii i am shreedhar001
 - 👀 I’m interested in creating website for events and others..
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on website creatar
+- 💞️ I’m looking to collaborate on website creatar<br>
 - 📫 How to reach me from my email atharvapande@gmail.com
 
   <!---
